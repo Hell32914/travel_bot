@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# SQLite database
+travel_bot.db
+
+# OS files
+.DS_Store
+Thumbs.db
