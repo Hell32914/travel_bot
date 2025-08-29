@@ -35,7 +35,7 @@ python travel_bot.py
 ```
 ---
 
-##travel-assistant-bot/
+travel-assistant-bot/
 
 │
 
@@ -52,7 +52,8 @@ python travel_bot.py
 
 
 ---
-##APIs Used
+
+## APIs Used
 
 [Skyscanner API](https://rapidapi.com/server-error?code=NOT_FOUND&message=API%20not%20found.)
 
@@ -61,4 +62,5 @@ python travel_bot.py
 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview?utm_source=chatgpt.com)
 
 [Telegram Bot API](https://core.telegram.org/bots/api?utm_source=chatgpt.com)
+
 ---
