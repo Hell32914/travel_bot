@@ -33,25 +33,26 @@ pip install -r requirements.txt
 ```cmd
 python travel_bot.py
 ```
+---
 
-travel-assistant-bot/
+##travel-assistant-bot/
 
 │
 
-├── travel_bot.py        # Main bot code
+├── travel_bot.py       
 
-├── requirements.txt     # Dependencies
+├── requirements.txt     
 
-├── .env.example         # Example API keys
+├── .env.example         
 
-└── travel_bot.db        # SQLite database (ignored in Git)
-
-
-
+└── travel_bot.db       
+---
 
 
 
-APIs Used
+
+---
+##APIs Used
 
 [Skyscanner API](https://rapidapi.com/server-error?code=NOT_FOUND&message=API%20not%20found.)
 
@@ -60,3 +61,4 @@ APIs Used
 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview?utm_source=chatgpt.com)
 
 [Telegram Bot API](https://core.telegram.org/bots/api?utm_source=chatgpt.com)
+---
